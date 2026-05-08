@@ -12,8 +12,8 @@ using HTML and CSS that showcases web design skills.
 5. Tested the page on different screen sizes
 
 ## Tools Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - VS Code (Code Editor)
 - Chrome Browser (Testing)
 
@@ -23,10 +23,18 @@ Successfully built a fully responsive and professional landing page with:
 - Responsive layout for all devices
 - Attractive color scheme and typography
 
-## Screenshot
-![Landing Page Screenshot](screenshot.png)
+## Screenshots
+
+### Hero Section
+![Hero Section](hero-section..png)
+
+### Features Section
+![Features Section](feature-section..png)
+
+### Full Page Preview
+![Full Page Preview](full-page-preview..png)
 
 ## Author
-**Hindavee Magdum** - OIBSIP Intern
+Hindavee Magdum - OIBSIP Intern
 
 [![GitHub](https://img.shields.io/badge/GitHub-Hindavee06-black?logo=github)](https://github.com/Hindavee06)
